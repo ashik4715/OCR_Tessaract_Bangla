@@ -1,0 +1,47 @@
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\bin\Debug\x64\liblept172.dll
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\bin\Debug\x64\libtesseract304.dll
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\bin\Debug\x86\liblept172.dll
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\bin\Debug\x86\libtesseract304.dll
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\bin\Debug\OCR_Tessaract.exe.config
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\bin\Debug\OCR_Tessaract.exe
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\bin\Debug\OCR_Tessaract.pdb
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\bin\Debug\Tesseract.dll
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\bin\Debug\Tesseract.xml
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.csprojResolveAssemblyReference.cache
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.Form1.resources
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.Properties.Resources.resources
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.csproj.GenerateResource.Cache
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.exe
+c:\users\02674\documents\visual studio 2017\Projects\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.pdb
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\bin\Debug\x64\liblept172.dll
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\bin\Debug\x64\libtesseract304.dll
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\bin\Debug\x86\liblept172.dll
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\bin\Debug\x86\libtesseract304.dll
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\bin\Debug\OCR_Tessaract.exe.config
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\bin\Debug\OCR_Tessaract.exe
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\bin\Debug\OCR_Tessaract.pdb
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\bin\Debug\Tesseract.dll
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\bin\Debug\Tesseract.xml
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.csprojResolveAssemblyReference.cache
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.Form1.resources
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.Properties.Resources.resources
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.csproj.GenerateResource.Cache
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.csproj.CoreCompileInputs.cache
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.exe
+C:\Users\jholok\source\repos\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.pdb
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\bin\Debug\x64\liblept172.dll
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\bin\Debug\x64\libtesseract304.dll
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\bin\Debug\x86\liblept172.dll
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\bin\Debug\x86\libtesseract304.dll
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\bin\Debug\OCR_Tessaract.exe.config
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\bin\Debug\OCR_Tessaract.exe
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\bin\Debug\OCR_Tessaract.pdb
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\bin\Debug\Tesseract.dll
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\bin\Debug\Tesseract.xml
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.csprojResolveAssemblyReference.cache
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.Form1.resources
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.Properties.Resources.resources
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.csproj.GenerateResource.Cache
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.csproj.CoreCompileInputs.cache
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.exe
+E:\CSE\15th\BanglaOCR\OCR_Tessaract\OCR_Tessaract\obj\Debug\OCR_Tessaract.pdb
